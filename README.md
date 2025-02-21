@@ -1,4 +1,4 @@
-# **Fleet Management CRUD (Mini Application)**  
+# **Fleet Management of Heavy Equipment CRUD (Mini Application)**  
 
 Developed by: **Yilmaz Trigumari Syah Putra**  
 
